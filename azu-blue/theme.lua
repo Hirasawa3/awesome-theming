@@ -48,7 +48,7 @@ theme.titlebar_maximized_button_focus_inactive  = "/usr/share/awesome/themes/min
 theme.titlebar_maximized_button_normal_active = "/usr/share/awesome/themes/minimalism/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = "/usr/share/awesome/themes/minimalism/titlebar/maximized_focus_active.png"
 
-theme.wallpaper = "/home/sasuke/wallpapers/minimalism/azu-dark-blue.png"
+theme.wallpaper = "azu-blue.png"
 
 -- You can use your own layout icons like this:
 theme.layout_fairh = "/usr/share/awesome/themes/minimalism/layouts/fairhw.png"

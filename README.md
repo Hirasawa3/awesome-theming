@@ -1,1 +1,1 @@
-A collection of my used awesoms themes. Includes wallpapers.
+My own collection of my best awesome themes, including wallpapers.
